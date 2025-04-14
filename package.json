@@ -1,6 +1,6 @@
 {
     "name": "likejarvis-jira-mcp-server",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "JIRA MCP Server implementation in TypeScript",
     "main": "dist/src/index.js",
     "type": "module",
@@ -44,6 +44,6 @@
         "LICENSE"
     ],
     "bin": {
-     "likejarvis-jira-mcp-server": "dist/src/index.js"
-   }
+        "likejarvis-jira-mcp-server": "dist/src/index.js"
+    }
 }
